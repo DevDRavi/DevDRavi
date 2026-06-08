@@ -1,16 +1,20 @@
-## Hi there 👋
+# Ravi Kumar
 
-<!--
-**DevDRavi/DevDRavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 Web Development
 
-Here are some ideas to get you started:
+- Ecommerce
+- Car Rental
+- GDD Car
+- Portfolio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ☁️ Cloud Projects
+
+- AWS Static Website Hosting
+- AWS Lambda Trigger
+- AWS S3 Event Processing
+
+## 🚀 DevOps Projects
+
+- Dockerized ASP.NET Application
+- Jenkins CI/CD Pipeline
+- Terraform Infrastructure
