@@ -22,6 +22,7 @@
 
 ## ☁️ Cloud Projects
 
+- aws-iam-users-and-groups
 - AWS Static Website Hosting
 - AWS Lambda Trigger
 - AWS S3 Event Processing
